@@ -1,0 +1,56 @@
+
+:root {
+  --light_yellow: #FBEF7D;
+  --white: #ffffff;
+  --black: #000000;
+  --light_blue: #009B99;
+  --blue: #00AEB7;
+  --red: #DC453C;
+  --brown:#21409A;
+  --light_green:#007177 ;
+  --background1: linear-gradient(101.03deg, #1152A4 12.19%, #249F9D 94.03%);
+  --background2: linear-gradient(101.03deg, #1152A4 12.19%, #249F9D 94.03%);
+  --background3: linear-gradient(92.14deg, #00919C 4.89%, #6CC6B1 98.67%);
+  --background4: linear-gradient(90deg, #00A39D 49.1%, #00A39D 51.19%, #21409A 74.25%, #21409A 75.29%);
+  --background5 : linear-gradient(92.14deg, #F1F1F1 4.34%, #FFFFFF 98.67%);
+  --background6 : #D9D9D9;
+  --background7 : #FFC1C1;
+}
+
+
+h1 {
+	font-size: 42px;
+	line-height: 69px;
+	letter-spacing: 0.08em;
+}
+h2 {
+	font-weight: 700;
+	font-size: 38px;
+	line-height: 46px;
+	letter-spacing: 0.08em;
+}
+h3{
+	font-weight: 800;
+	font-size: 26px;
+	line-height: 46px;
+	letter-spacing: -0.03em;
+	color: #DC453C;
+}
+h4 {
+	font-weight: 700;
+	font-size: 23px;
+	line-height: 25px;
+	letter-spacing: 0.08em;
+}
+h5 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 46px;
+	letter-spacing: 0.08em;
+}
+p {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	letter-spacing: 0.05em;
+}
